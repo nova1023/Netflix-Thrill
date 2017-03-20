@@ -1,0 +1,139 @@
+#reset button{
+			background-color: #b9090b;
+			
+		}
+		body{
+		background-color: #b9090b;
+		
+		}
+		.container{
+		background-color: #171717;
+		margin-top: 10px;
+		}
+		h5{
+		margin-top:4px;
+		color:white;
+		font-weight:bold;
+		font-size: 16px;
+		text-shadow: 1px 1px #b9090b;
+		text-align: center;
+		}
+		h3{
+			color:white;
+			text-align: center;
+			font-size: 14px;
+		}
+		.open>.dropdown-menu{
+		background-color: black;
+		}
+		#mash{
+		
+		color:red;
+		font-weight:bold;
+		font-size:40px;
+		text-align: center;
+		height:200px;
+		padding-top:15px;
+		text-shadow: 5px 5px black;
+		}
+		#mash img{
+		
+		box-shadow: none;
+		height:175px;
+		width:auto;
+		width:700px;
+		}
+		#gif{
+		margin-top:-35px;
+		}
+		
+		#moviebox{
+		color:red;
+		font-size:16px;
+		line-height: 140px;
+		text-align: left;
+		}
+		#movieframe{
+		margin-top: -60px;
+		opacity:.8;
+		}
+		
+		
+			}
+			.box2{
+		border:4px solid red;
+		box-shadow: 10px 10px 10px #b9090b;
+		
+		
+		}
+		button{
+			display: block;
+			width:160px;
+			margin:4px;
+			color:white;
+			background-color: #b9090b;
+		   font-weight:bold;
+		   font-size: 16px;
+		   text-shadow: 1px 1px black;
+		   margin-left: 20px;
+		}
+		#reset{
+			margin-top:23px;
+		}
+
+
+button, input, select, textarea{
+	display: inline;
+}
+
+
+		img{
+		width:373px;
+		height:442px;
+		border:4px solid red;
+		box-shadow: 10px 10px 10px red;
+		opacity: .8;
+		margin-top: -5px;
+		}
+		
+		.btn-primary {
+		color: #fff;
+		background-color: grey;
+		border-color: grey;
+		opacity: .7;
+		box-shadow: 5px 5px 5px red;
+		font-weight:bold;
+		font-size: 16px;
+		margin-top: 48px;
+
+		}
+		.btn-primary:hover{
+		background-color: red;
+		color:black;
+		box-shadow: 5px 5px 5px grey;
+		}
+		.space{
+		margin-top:23px;
+		}
+	.space1{
+		padding-top:10px;
+		height:45px;
+		}
+
+.col-sm-4{
+	padding-left: 0px;
+	padding-right: 0px;
+	
+}
+
+	@media(max-width:600px){
+    #mash ,#mash img {
+        width:300px;
+       }
+       #mash{
+       	 padding-left:90px;  
+
+       }
+}
+
+
